@@ -19,6 +19,7 @@ This package contains themes for GNOME2, gdm xmms and galeon.
 
 %prep
 %setup  -q
+libtoolize --force
 aclocal-1.8
 intltoolize --force
 autoconf
