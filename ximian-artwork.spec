@@ -1,6 +1,6 @@
 Name:		ximian-artwork
 Version: 0.2.34
-Release: %mkrel 3
+Release: %mkrel 5
 License:	GPL
 BuildRoot:	%_tmppath/%{name}-%{version}-root
 URL:		http://www.ximian.com/
