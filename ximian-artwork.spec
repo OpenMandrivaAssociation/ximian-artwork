@@ -3,7 +3,7 @@ Version: 0.2.34
 Release: %mkrel 6
 License:	GPL
 BuildRoot:	%_tmppath/%{name}-%{version}-root
-URL:		http://www.ximian.com/
+URL:		https://www.ximian.com/
 Source0:	%name-%version.tar.bz2
 BuildRequires:	gtk+-devel
 BuildRequires:	gtk+2-devel
